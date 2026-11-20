@@ -9,6 +9,8 @@ Two related pieces:
 
 The card is not usable without the integration. Neither piece is in HACS.
 
+![Example of custom:wt901-horizon-card](wt901-horizon-card.png)
+
 ## Hardware and BLE identity
 
 The module advertises as e.g. `WT901BLE67` (prefix `WT901BLE`). Its BLE address can change
